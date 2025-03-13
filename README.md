@@ -7,6 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes68&hide=javascript,html)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes68&layout=pie)](https://github.com/Arantes68/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes68&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes68&langs_count=8)
 #### Conhecimentos nas seguintes Tecnologias: 
 
 <div style="display: inline_block"><br/>
