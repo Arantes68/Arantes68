@@ -4,9 +4,6 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-3029a8133/)
 
 #### Gráfico: 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes68&hide=javascript,html)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes68&layout=pie)](https://github.com/Arantes68/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes68&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes68&langs_count=8)
 #### Conhecimentos nas seguintes Tecnologias: 
 
