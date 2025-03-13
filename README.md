@@ -5,9 +5,8 @@
 
 #### Gráfico: 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes68&hide=javascript,html)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arantes68&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes68&layout=pie)](https://github.com/Arantes68/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes68&layout=compact)
 #### Conhecimentos nas seguintes Tecnologias: 
 
 <div style="display: inline_block"><br/>
