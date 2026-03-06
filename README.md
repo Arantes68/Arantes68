@@ -6,11 +6,8 @@
 
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes68&langs_count=8)
-
-<br><br>
 #### Conhecimentos nas seguintes Tecnologias: 
-<br>
+<br><br>
 <img 
     align="left" 
     alt="Python"
@@ -180,7 +177,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"
 />
 
-<br><br><br>
+<br>
 
 #### IDE's utilizados: 
 <br>
