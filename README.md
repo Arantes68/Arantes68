@@ -1,6 +1,5 @@
 ## Olá, eu sou Marcos Vinicius 👋
-
-Sou interessado em **Dados, Engenharia de Dados e Análise de Dados**.  
+ 
 Atualmente estudando **Python, SQL e ferramentas de Data Engineering**.
 
 <br>
@@ -13,7 +12,7 @@ Atualmente estudando **Python, SQL e ferramentas de Data Engineering**.
 
 ## 🚀 Tecnologias e Ferramentas
 
-<p align="left">
+<p>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px"/>
 
@@ -43,7 +42,7 @@ Atualmente estudando **Python, SQL e ferramentas de Data Engineering**.
 
 <br>
 
-## 💻 IDEs e Ferramentas de Desenvolvimento
+## 💻 IDEs e Ferramentas
 
 <p>
 
@@ -59,6 +58,10 @@ Atualmente estudando **Python, SQL e ferramentas de Data Engineering**.
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arantes68&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+<br>
+
+## 📈 Linguagens mais utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes68&layout=compact&theme=tokyonight)
