@@ -175,9 +175,7 @@
     width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"
-/>
-
-<br>
+/><br><br>
 
 #### IDE's utilizados: 
 <br>
