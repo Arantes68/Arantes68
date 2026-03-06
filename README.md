@@ -54,14 +54,3 @@ Atualmente estudando **Python, SQL e ferramentas de Data Engineering**.
 
 </p>
 
-<br>
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arantes68&show_icons=true&theme=tokyonight)
-
-<br>
-
-## 📈 Linguagens mais utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes68&layout=compact&theme=tokyonight)
