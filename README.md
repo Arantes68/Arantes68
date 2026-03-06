@@ -3,13 +3,8 @@
 #### Perfil do LinkedIn:
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-3029a8133/)
 
-#### Gráfico: 
-<div>
-<a href="https://github.com/Arantes68">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes68&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Arantes68&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
+<br>
+<br>
 
 #### Conhecimentos nas seguintes Tecnologias: 
 
@@ -20,6 +15,14 @@
     width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="45px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
 />
 <img 
     align="left" 
@@ -158,24 +161,25 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 <img 
-    <i class="devicon-datadog-original"></i>
-/>
-<img 
     align="left" 
-    alt="Grafana" 
-    title="Grafana"
-    width="45px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Pandas" 
-    title="Pandas"
+    alt="Datadog" 
+    title="Datadog"
     width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg"
 />
+<img 
+    align="left" 
+    alt="Datadog" 
+    title="Datadog"
+    width="45px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"
+/>
+
+<br>
+<br>
+<br>
 
 #### IDE's utilizados: 
 
@@ -194,7 +198,7 @@
     title="Eclipse"
     width="45px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"
 />
 <img 
     align="left" 
