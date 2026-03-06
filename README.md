@@ -1,13 +1,16 @@
 ## Olá, Sou Marcos Vinicius
+<br>
 
 #### Perfil do LinkedIn:
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-3029a8133/)
 
-<br>
-<br>
+<br><br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes68&langs_count=8)
+
+<br><br>
 #### Conhecimentos nas seguintes Tecnologias: 
-
+<br>
 <img 
     align="left" 
     alt="Python"
@@ -177,13 +180,10 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"
 />
 
-<br>
-<br>
-<br>
+<br><br><br>
 
 #### IDE's utilizados: 
-
-/>
+<br>
 <img 
     align="left" 
     alt="VS Code" 
